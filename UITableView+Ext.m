@@ -1,9 +1,7 @@
 //
-//  UITableView+Ext.m
-//  TT
+//  UITableView+Ext.h
 //
 //  Created by Aqib Mumtaz on 28/11/2014.
-//  Copyright (c) 2014 Aqib Mumtaz. All rights reserved.
 //
 
 #import "UITableView+Ext.h"
